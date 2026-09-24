@@ -21,9 +21,9 @@ This is a simple Java program that automates student council elections. Instead 
 
 # Concepts Used:
 
-CO1 (Fundamentals): Variables, arrays, Scanner input, data types
-CO2 (Loops & Conditions): For loops, if-else statements, validation
-CO3 (Arrays & Algorithms): Array operations, finding maximum values
+- CO1 (Fundamentals): Variables, arrays, Scanner input, data types
+- CO2 (Loops & Conditions): For loops, if-else statements, validation
+- CO3 (Arrays & Algorithms): Array operations, finding maximum values
 
 
 # By:
