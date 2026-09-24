@@ -27,5 +27,5 @@ This is a simple Java program that automates student council elections. Instead 
 
 
 # By:
-Greeshma Kolagotla - 2620040163
-G.L.B. Ananya - 2620040168
+* Greeshma Kolagotla - 2620040163
+* G.L.B. Ananya - 2620040168
